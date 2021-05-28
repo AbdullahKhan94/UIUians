@@ -12,7 +12,3 @@ Also this application contain UIU and Students Achievement Profile. All the info
 UIUians contain Carrier Opportunity option. From the material drawer menu users will be able to find all the information for their carrier like Job and Internship Opportunity using this application. Also user will be able to share those with theirs family and friends.
 
 This application has designed and developed for UIUians and all the information of this application is powered and copyrighted by the authority of United International University (UIU).
-
-Publish Date: 2020-09-15
-
-App uploaded by: Mãyõm Añdrèw
