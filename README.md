@@ -14,4 +14,4 @@ UIUians contain Carrier Opportunity option. From the material drawer menu users 
 This application has designed and developed for UIUians and all the information of this application is powered and copyrighted by the authority of United International University (UIU).
 
 
-Click here to download: https://github.com/AbdullahKhan94/UIUians/blob/main/UIUians_v1.0.6.apk?raw=true
+Click here to download: [UIUians App](https://github.com/AbdullahKhan94/UIUians/blob/main/UIUians_v1.0.6.apk?raw=true)
